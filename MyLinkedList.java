@@ -11,9 +11,11 @@ class MyLinkedList {
 		}
 	}
 
-	int length;
-	Node head;
+	int length; 
 
+	
+	Node head;
+ 
 	public MyLinkedList() {
 		this.length = 0;
 		this.head = null;
